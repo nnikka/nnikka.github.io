@@ -1,6 +1,6 @@
 # Site settings
-title: Giorgi Lagidze
-name: Giorgi Lagidze
+title: Nika Kurashvili
+name: Nika Kurashvili
 
 # Build settings
 markdown: kramdown
@@ -9,70 +9,60 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/novaknole
+   url: https://github.com/nnikka
  - title: LinkedIn
-   url: https://www.linkedin.com/in/giorgi-lagidze-22a75012b/
+   url: https://www.linkedin.com/in/nika-kurashvili-b28289165/
 
 #Any buzzword skills you want to include
 skills:
  - Java
- - C++
  - C
- - Functional Paradigms(Kawa)
- - HTML5
- - Javascript
- - Node.Js
- - Jquery
- - Vue
- - Angular 4
- - Php OOP
+ - C++
+ - Node.js
+ - PHP
  - Laravel
- - Sql
- - Mysql
- - Mongodb
- - Redis
- - Ionic
+ - Javascript   
+ - React
+ - Vue
+ - Angular
+ - jQuery
  - Cordova
- - Linux(Ubuntu)
+ - Ionic
+ - SQL
+ - MySQL
+ - NoSQL
+ - MongoDB
+ - Redis
+ - REST API
+ - Linux(ubuntu)
  - Apache
  - Nginx
 
-
 #Work experience is required
 roles:
- - title: Senior Developer
+ - title: Senior Software Engineer
    start: 2018
    end: Ongoing
-   employer: Bitforx
-   description: Working as a full-stack developer by creating web,mobile and desktop applications based on blockchain platforms. More info below in additional information.
- - title: Full-Stack Web Developer
+   company: Bitforx
+   description: Working as a senior software engineer by creating complex applications based on blockchain technology.
+ - title: Full-stack developer
    start: 2017
    end: Ongoing
-   employer: Kairos Logistic
-   description: Working as a full-stack developer - creating desktop, web, android and ios applications depending on the people's choice to change and simplify their lives. More info below in additional information.
- - title: PHP Developer
+   company: Kairos Logistic
+   description:
+ - title: Front-end developer
    start: 2016
    end: 2017
-   employer: Nordiccar
-   description: Working as a Laravel Developer - creating a web portal that would change and simplify world-wide companies' process while selling their parts,accessories online. More info below in additional information.
+   company: Dolphin software
+   description: Working as a front-end developer by creating the application for bank controll panel. 
 
 #Education is required
 education:
- - level: Bachelor of Computer Engineering(B.Sc.)
-   date: 2018 (Not yet)
+ - level: Bachelor of Computer Engineering
+   date: 2018
    subject: Computer Science and Engineering
    school: Free University Of Tbilisi, Georgia
  - level: Graduation of School
-   date: 2014
+   date: 2015
    subject: Strong Skills In Math And Physics
-   school: Physics and Mathematics N.41 School  in Georgia, Kutaisi
-
-
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Web</strong>: I will go in depth details in what kind of things I've had experience while working for the projects I mentioned above:<strong>how to: </strong>handle more than 10M rows in mysql, mongodb and redis,  make optimization and indexes and make them super fast, write OOP code and restful apis, use PDO prepared statements in php, secure linux servers, caching, nginx-proxy, creating a pool server like antpool.com from almost scratch so that bitcoin,litecoin miners can connect to my pool and mine their hardwares(I've used redis database and managed it so that it can handle more than Billion rows), Master-slave replications, AOF, supervisord,Node.js cluster workers(since it's single threaded) and so much more. <br/><br/>
-   <strong>Destkop</strong>:My destkop experience is related to awesome Languages:Java, C, C++. I've had experience in the following things: <strong>How to </strong>write testable code(dependency injection, law of diameter, loose coopling over tight coopling, polymorphism), use JUNIT tests(understanding of statement, path, branch coverage), black-box and white-box testing, deep understanding of stack, heap, assembly, registers, multi-threading(threads,proccesses,concurenncy,parallelism,locks, deadlocks,busy waiting, how to avoid them, how to write thread-safe code, taking adventage of lock objects ,using syncrhonized keywords), generic classes(cloning objects,elements) and so much more I can't even cover it on this website :)<br/><br/>
-   <strong>Mobile</strong>:Unfortunatelly, I've never worked with native apps as for now. I've used ionic and cordova frameworks to write hybrid apps. I've had experience with so many things that modern apps have implemented within their apps. With ionic, I've integrated mobile tracking system for ios and android respectively. It uses accelerometer, gyroscope and magnetometer to detect when the device is moving and stationary and also It's a battery-conscious motion-detection. </br></br>
-   I'm so happy If you got interested. I'm Giorgi and I'm from Georgia, Tbilisi. It's been 3 years since I started learning programming. Since that time, I've never stopped improving myself and always try to do more and more. In these 3 years, I made the impossible. Who'd have imagined that I'd know so many stuff described above? The reason is I never give up and always strive to fulfil my dreams. My favorite Quote is: "If you come to play, you come to play real hard or get the hell off my court!". </br></br>
-   As for now, I don't even stop and Nobody can even stop me. Even though it's been 3 years and no more, I'm 100% sure that there's nothing, no web/mobile/desktop application I can't write with outstanding quality code. If it's harder more than my abilities, Then I amn't gonna sleep until I figure out the best way to solve it, Because I prefer success over sleep. I prefer to be working when others are sleeping.</br></br>
-   SO MOTIVATED TO CHANGE THE WORLD, BECAUSE I WAS HERE
+   school: Physics and Mathematics School in Georgia, Kutaisi
