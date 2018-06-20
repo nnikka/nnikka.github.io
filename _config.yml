@@ -81,21 +81,4 @@ coursera:
       optionalimage: src="https://lh3.google.com/u/0/d/15P7hykyfyKbKS5zgbNc220EIhIekW_SL=w200-h150-p-k-nu-iv1"
       date: 
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-<strong>Server side development</strong>: 
 
-<br/><br/>
-<strong>Front-end development</strong>: 
-
-<br/><br/>
-<strong>Mobile development</strong>: 
-
-<br/><br/>
-<strong>Block-chain development</strong>: 
-
-<br/><br/>
-<strong>Desktop applications</strong>
-
-<br/>
-<br/>
