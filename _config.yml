@@ -68,3 +68,22 @@ education:
    date: 2015
    subject: Strong Skills In Math And Physics
    school: Physics and Mathematics School in Georgia, Kutaisi
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+<strong>Server side development</strong>: 
+
+<br/><br/>
+<strong>Front-end development</strong>: 
+
+<br/><br/>
+<strong>Mobile development</strong>: 
+
+<br/><br/>
+<strong>Block-chain development</strong>: 
+
+<br/><br/>
+<strong>Desktop applications</strong>
+
+<br/>
+<br/>
