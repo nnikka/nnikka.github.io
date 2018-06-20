@@ -37,6 +37,8 @@ skills:
  - Linux(ubuntu)
  - Apache
  - Nginx
+ - Solidity
+ - Smart contracts
 
 #Work experience is required
 roles:
@@ -49,7 +51,7 @@ roles:
    start: 2017
    end: Ongoing
    employer: Kairos Logistic
-   description:
+   description: Working as a full-stack web and mobile developer by creating live-tracking application
  - title: Front-end developer
    start: 2016
    end: 2017
