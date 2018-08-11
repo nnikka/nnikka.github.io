@@ -37,6 +37,7 @@ skills:
  - Linux(ubuntu)
  - Apache
  - Nginx
+ - Docker
  - Solidity
  - Smart contracts
 
@@ -72,6 +73,10 @@ education:
 #This section is optional (as is the image link below)
 coursera:
    courses:
+    - title: Proofus
+      link: http://test.proofus.com/
+      optionalimage: https://lh3.google.com/u/0/d/1lq1JFx74r4cxf35-bsoNc5Iktjb-bIK2=w225-h169-p-k-nu-iv1
+      date: 
     - title: Bene-exclusive
       link: http://bene-exclusive.com/
       optionalimage: https://lh3.google.com/u/0/d/15P7hykyfyKbKS5zgbNc220EIhIekW_SL=w200-h150-p-k-nu-iv1
