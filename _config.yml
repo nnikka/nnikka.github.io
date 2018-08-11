@@ -75,7 +75,7 @@ coursera:
    courses:
     - title: Proofus
       link: http://test.proofus.com/
-      optionalimage: https://lh3.google.com/u/0/d/1lq1JFx74r4cxf35-bsoNc5Iktjb-bIK2=w225-h169-p-k-nu-iv1
+      optionalimage: ./img/proofus.PNG
       date: 
     - title: Bene-exclusive
       link: http://bene-exclusive.com/
@@ -83,7 +83,7 @@ coursera:
       date: 
     - title: Teleport Georgia
       link: http://teleportgeorgia.com/
-      optionalimage: https://lh3.google.com/u/0/d/1eJINuGIja8gi1lAmakYsGB7DxxiIkVOu=w200-h150-p-k-nu-iv1
+      optionalimage: ./img/teleport.PNG
       date: 
 
 
