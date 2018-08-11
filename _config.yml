@@ -79,7 +79,7 @@ coursera:
       date: 
     - title: Bene-exclusive
       link: http://bene-exclusive.com/
-      optionalimage: https://lh3.google.com/u/0/d/15P7hykyfyKbKS5zgbNc220EIhIekW_SL=w200-h150-p-k-nu-iv1
+      optionalimage: ./img/bene.PNG
       date: 
     - title: Teleport Georgia
       link: http://teleportgeorgia.com/
