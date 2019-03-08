@@ -456,3 +456,8 @@ td.loginRow {
 	margin-left: 30px;
 	margin-bottom: 5px;
 }
+
+.img-cont-asa {
+	border-radius: 4px;
+	overflow: hidden;
+}
